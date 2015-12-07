@@ -13,3 +13,6 @@ little python script to extract e-mail address from page source
     python extract_mail.py --url http://www.ozgurkod.com
 
 ```
+
+TODO:
+- Make tests before commits
